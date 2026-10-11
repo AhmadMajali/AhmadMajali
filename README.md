@@ -7,6 +7,8 @@
    - [Evalane: AI Traffic Signal Optimization & Officer Training Simulator](https://github.com/AhmadMajali/Evalane) (Python, XGBoost, scikit-learn, Pandas, Flask, React, Firebase)
       - Generated a 20,000-row traffic dataset and trained a 3-stage chained XGBoost pipeline: congestion level (98% accuracy), priority lane (91% accuracy), and green-light duration (RMSE 5.7s, R² 0.875)
       - Compared XGBoost against Random Forest, LightGBM, Logistic Regression, and SVM, and ran GridSearchCV to confirm the hyperparameters
+* Business Intelligence
+   * [Data Professional Survey Dashboard (Power BI)](https://github.com/AhmadMajali/power-bi-data-professional-survey) (redesigned and extended a tutorial dashboard: country filter, salary by role and education, career-switch and job-priority analysis on 630 survey responses)
 - Computer Vision / Unsupervised Learning
    - [Palmprint Segmentation: K-Means vs. Gaussian Mixture Models](https://github.com/AhmadMajali/Kmeans-vs-GMM-segmentation) (OpenCV, scikit-learn, Matplotlib)
      
