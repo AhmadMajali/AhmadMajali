@@ -12,16 +12,14 @@
      
 <h2> Python Projects</h2>
 
-- [Python Car Dodger](https://github.com/AhmadMajali/Python-Car-Game) (2D top-down driving game built with Pygame and a modular, object-oriented design)
-
-- [Bank System](https://github.com/AhmadMajali/Bank-System) (accounts, deposits, transfers, and transaction history, with JSON persistence and an admin view)
-- [Student Management System](https://github.com/AhmadMajali/student-management-system) (add, search, and delete records stored in a text file)
+* Game Development
+   * [Python Car Dodger](ADD-LINK) (2D top-down driving game built with Pygame and a modular, object-oriented design)
+* Console Applications
+   * [Bank System](https://github.com/AhmadMajali/Bank-System) (accounts, deposits, transfers, and transaction history, with JSON persistence and an admin view)
+   * [Student Management System](https://github.com/AhmadMajali/student-management-system) (add, search, and delete records stored in a text file)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]:https://www.linkedin.com/in/ahmad-almajali-628147291/?isSelfProfile=true
