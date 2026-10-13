@@ -9,6 +9,7 @@
       - Compared XGBoost against Random Forest, LightGBM, Logistic Regression, and SVM, and ran GridSearchCV to confirm the hyperparameters
 * Business Intelligence
    * [Data Professional Survey Dashboard (Power BI)](https://github.com/AhmadMajali/power-bi-data-professional-survey) (redesigned and extended a tutorial dashboard: country filter, salary by role and education, career-switch and job-priority analysis on 630 survey responses)
+* [Gender Classification from Faces: HOG + SVM](https://github.com/AhmadMajali/gender-classification-hog-svm) (UTKFace, 84.3% test accuracy, AUC 0.92, with a real-time webcam demo; OpenCV, scikit-image, scikit-learn)
 - Computer Vision / Unsupervised Learning
    - [Palmprint Segmentation: K-Means vs. Gaussian Mixture Models](https://github.com/AhmadMajali/Kmeans-vs-GMM-segmentation) (OpenCV, scikit-learn, Matplotlib)
      
