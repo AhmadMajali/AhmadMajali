@@ -13,10 +13,10 @@
 <h2> Python Projects</h2>
 
 * Game Development
-   * [Python Car Dodger](ADD-LINK) (2D top-down driving game built with Pygame and a modular, object-oriented design)
+   * [Python Car Dodger](ADD-LINK): a 2D top-down driving game built with Pygame, designed to practise modular, object-oriented architecture. Separate modules handle the game loop, player steering, obstacle spawning and a scrolling road that creates the sense of speed, and the game tracks survival time and score on screen (Python, Pygame)
 * Console Applications
-   * [Bank System](https://github.com/AhmadMajali/Bank-System) (accounts, deposits, transfers, and transaction history, with JSON persistence and an admin view)
-   * [Student Management System](https://github.com/AhmadMajali/student-management-system) (add, search, and delete records stored in a text file)
+   * [Bank System](https://github.com/AhmadMajali/Bank-System): a banking app where users create accounts with a unique ID and PIN, then deposit, withdraw, transfer money and view balances and 12-hour timestamped transaction history. Includes an admin view of all accounts and persistent storage in JSON, with the bank logic kept separate from the menus (Python, JSON, OOP)
+   * [Student Management System](https://github.com/AhmadMajali/student-management-system): a console app for managing student records (name, age, grade) stored in a text file, with options to add, view, search by name and delete, using Python 3.10's `match-case` for the menu (Python, file I/O)
 
 <h2> 🤳 Connect with me:</h2>
 
