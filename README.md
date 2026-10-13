@@ -3,15 +3,12 @@
 
 <h2>👨‍💻 Data & Machine Learning Projects</h2>
 
-- Graduation Project (Team of 4)
-   - [Evalane: AI Traffic Signal Optimization & Officer Training Simulator](https://github.com/AhmadMajali/Evalane) (Python, XGBoost, scikit-learn, Pandas, Flask, React, Firebase)
-      - Generated a 20,000-row traffic dataset and trained a 3-stage chained XGBoost pipeline: congestion level (98% accuracy), priority lane (91% accuracy), and green-light duration (RMSE 5.7s, R² 0.875)
-      - Compared XGBoost against Random Forest, LightGBM, Logistic Regression, and SVM, and ran GridSearchCV to confirm the hyperparameters
+* Machine Learning & Computer Vision
+   * [Evalane: AI Traffic Signal Optimization & Officer Training Simulator](https://github.com/AhmadMajali/evalane) (graduation project, team of 4): a 3-stage chained XGBoost pipeline that predicts congestion level, priority lane and green-light duration (98% / 91% accuracy, 5.7 s RMSE), served through a Flask API to a React traffic simulator (Python, XGBoost, Flask, React, Firebase)
+   * [Gender Classification from Faces: HOG + SVM](https://github.com/AhmadMajali/gender-classification-hog-svm): 84.3% test accuracy and 0.92 AUC on UTKFace, with a real-time webcam demo (OpenCV, scikit-image, scikit-learn)
+   * [Palmprint Segmentation: K-Means vs. Gaussian Mixture Models](https://github.com/AhmadMajali/Kmeans-vs-GMM-segmentation): compares two unsupervised methods for separating the hand from the background in palm images (OpenCV, scikit-learn, Matplotlib)
 * Business Intelligence
-   * [Data Professional Survey Dashboard (Power BI)](https://github.com/AhmadMajali/power-bi-data-professional-survey) (redesigned and extended a tutorial dashboard: country filter, salary by role and education, career-switch and job-priority analysis on 630 survey responses)
-* [Gender Classification from Faces: HOG + SVM](https://github.com/AhmadMajali/gender-classification-hog-svm) (UTKFace, 84.3% test accuracy, AUC 0.92, with a real-time webcam demo; OpenCV, scikit-image, scikit-learn)
-- Computer Vision / Unsupervised Learning
-   - [Palmprint Segmentation: K-Means vs. Gaussian Mixture Models](https://github.com/AhmadMajali/Kmeans-vs-GMM-segmentation) (OpenCV, scikit-learn, Matplotlib)
+   * [Data Professional Survey Dashboard (Power BI)](https://github.com/AhmadMajali/power-bi-data-professional-survey): redesigned and extended a tutorial dashboard with a country filter, salary by role and education, and career-switch and job-priority analysis of 630 survey responses (Power BI, Power Query, DAX)
      
 <h2> Python Projects</h2>
 
