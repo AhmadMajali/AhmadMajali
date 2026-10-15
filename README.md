@@ -17,7 +17,21 @@
 * Console Applications
    * [Bank System](https://github.com/AhmadMajali/Bank-System): a banking app where users create accounts with a unique ID and PIN, then deposit, withdraw, transfer money and view balances and 12-hour timestamped transaction history. Includes an admin view of all accounts and persistent storage in JSON, with the bank logic kept separate from the menus (Python, JSON, OOP)
    * [Student Management System](https://github.com/AhmadMajali/student-management-system): a console app for managing student records (name, age, grade) stored in a text file, with options to add, view, search by name and delete, using Python 3.10's `match-case` for the menu (Python, file I/O)
+## Services
 
+Freelance data work for small businesses, students and teams. I quote a fixed price after seeing your data. Prices are in JOD.
+
+| Service | What's included | Turnaround | Price |
+|---|---|---|---|
+| **Power BI dashboard** | One data source (Excel/CSV), cleaning in Power Query, a data model, 1–2 report pages with KPI cards, charts and slicers, plus a short walkthrough | 3–5 days | 80 – 250 |
+| **Excel report / dashboard** | Formulas, pivot tables and charts built from your raw data, with a clean layout you can refresh | 2–3 days | 40 – 120 |
+| **Data cleaning** | Fix duplicates, missing values, inconsistent text and date formats in one file, with a short note on what changed | 1–2 days | 30 – 80 per dataset |
+| **Report automation (Python)** | A script that turns a recurring manual report into one command, with instructions | 2–4 days | 60 – 180 |
+| **Predictive model (Python)** | One classification or forecasting model (e.g. churn), with a validation report in plain language | 1–2 weeks | 200 – 450 |
+| **Monthly reporting** | Refreshing and updating one dashboard or report each month, with small changes included | Ongoing | 120 – 250 / month |
+
+Extra work outside the agreed scope: **4 – 7 JOD/hour**.
+Contact: amajali226@gmail.com
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
