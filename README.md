@@ -1,5 +1,5 @@
 <h1>Hi, I'm Ahmad! <br/><a href="https://github.com/AhmadMajali">Data
-  Analyst</a>, <a href="https://www.linkedin.com/in/ahmad-almajali-628147291/?isSelfProfile=true">programmer</a>, <a href="https://www.youtube.com/c/joshmadakor">Data Professional</a></h1>
+  Analyst</a>, <a href="https://www.linkedin.com/in/ahmad-almajali-628147291/?isSelfProfile=true">machine learning</a>, <a href="https://www.youtube.com/c/joshmadakor">Data Professional</a></h1>
 
 <h2>👨‍💻 Data & Machine Learning Projects</h2>
 
